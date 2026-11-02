@@ -1,0 +1,13 @@
+# not part of the website (see wrangler.jsonc)
+.git
+.gitignore
+.assetsignore
+.claude
+.DS_Store
+**/.DS_Store
+tools
+scripts
+site
+wrangler.jsonc
+node_modules
+*.md

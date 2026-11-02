@@ -1,0 +1,21 @@
+Clash Royale Web Simulator
+Copyright 2026 Vber AI Technology
+
+The source code of this project is licensed under the Apache License, Version 2.0 (see LICENSE).
+
+EDUCATIONAL, NON-COMMERCIAL FAN PROJECT
+This project is a fan-made simulator created for educational and research purposes only (game mechanics,
+self-play AI research and practice). It is not affiliated with, endorsed, sponsored, or specifically approved
+by Supercell, and Supercell is not responsible for it. For more information see Supercell's Fan Content Policy:
+https://www.supercell.com/fan-content-policy
+
+THIRD-PARTY MATERIAL — NOT COVERED BY THE APACHE LICENSE
+- "Clash Royale", "Supercell", the card names, card art, character art and sound effects are trademarks and/or
+  copyrighted material of Supercell Oy. They are used here under Supercell's Fan Content Policy and remain the
+  property of Supercell. The files in img/ and sound/ are not licensed by this project.
+- Card art, character renders and sounds were obtained from RoyaleAPI's cr-api-assets
+  (https://github.com/RoyaleAPI/cr-api-assets) and Supercell's official API image CDN.
+- Card statistics: RoyaleAPI cr-api-data (https://github.com/RoyaleAPI/cr-api-data), the Clash Royale Wiki
+  (https://clashroyale.fandom.com, CC BY-SA), and client data decoded by RoyaleGym/RoyaleSim
+  (https://github.com/RoyaleGym/RoyaleSim, MIT License — see tools/gamedata/LICENSE-RoyaleSim).
+- Top-ladder deck lists: hastylmao/Hasty-CR battle log (https://github.com/hastylmao/Hasty-CR).

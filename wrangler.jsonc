@@ -1,0 +1,8 @@
+// Cloudflare Workers static assets (what "Connect to Git" projects run by default: `npx wrangler deploy`).
+// Serves the game straight from the repo root; .assetsignore keeps out .git, tools/ and other dev files.
+// Classic Pages projects can instead use build command `bash scripts/build-pages.sh`, output directory `site`.
+{
+  "name": "vber-cr",
+  "compatibility_date": "2026-10-01",
+  "assets": { "directory": "." }
+}

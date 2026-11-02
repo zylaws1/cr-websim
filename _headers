@@ -1,0 +1,10 @@
+# Cloudflare Pages response headers (copied into site/ by build-pages.sh)
+/img/*
+  Cache-Control: public, max-age=604800
+
+/sound/*
+  Cache-Control: public, max-age=604800
+
+/*
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: strict-origin-when-cross-origin
